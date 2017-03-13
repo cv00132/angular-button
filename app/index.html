@@ -9,11 +9,10 @@
   </head>
   <body ng-app="app">
     <div class="container">
-      <p>Welcome to your life.</p>
-
+        
       <div ng-controller="CounterController">
-          <button ng-click="addLike()">{{ likes }} Like</button>
-          <button ng-selected="disLike()">Toggle</button>
+          <button ng-click="addLike()">{{ likes }} {{ many }}</button>
+          <button ng-click="toggle()">Toggle</button>
        </div>
 
     </div>
