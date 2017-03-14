@@ -1,1 +1,1 @@
-tiy-coryvaughan-angular-button.surge.sh
+http://tiy-coryvaughan-angular-button.surge.sh
